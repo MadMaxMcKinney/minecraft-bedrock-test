@@ -1,0 +1,180 @@
+{
+	"file_path": "C:\\Users\\maxga\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\BP Bun Buddy\\manifest.json",
+	"file_type": "manifest_bp",
+	"format_version": 1,
+	"file_uuid": "99454289_60ad_49b2_965c_daddbe90b5ac",
+	"file_version": 2,
+	"cache_content": {
+		"children": [
+			{
+				"data": "2",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": 2,
+					"header": {
+						"name": "max:Bun Buddy BP",
+						"description": "pack.description",
+						"uuid": "2e0535fd-a6a3-40cb-be05-7b1320d46644",
+						"version": [
+							1,
+							0,
+							0
+						],
+						"min_engine_version": [
+							1,
+							13,
+							0
+						]
+					},
+					"modules": [
+						{
+							"type": "data",
+							"uuid": "b5a3d901-928f-42af-b8de-45ccf31e3f91",
+							"version": [
+								1,
+								0,
+								0
+							]
+						}
+					],
+					"dependencies": [
+						{
+							"version": [
+								1,
+								0,
+								0
+							],
+							"uuid": "8bab978c-9b95-4a93-977b-ca255c0f8b0d"
+						}
+					]
+				},
+				"key": "header",
+				"is_minified": true,
+				"children": {
+					"name": "max:Bun Buddy BP",
+					"description": "pack.description",
+					"uuid": "2e0535fd-a6a3-40cb-be05-7b1320d46644",
+					"version": [
+						1,
+						0,
+						0
+					],
+					"min_engine_version": [
+						1,
+						13,
+						0
+					]
+				}
+			},
+			{
+				"open": {
+					"format_version": 2,
+					"header": {
+						"name": "max:Bun Buddy BP",
+						"description": "pack.description",
+						"uuid": "2e0535fd-a6a3-40cb-be05-7b1320d46644",
+						"version": [
+							1,
+							0,
+							0
+						],
+						"min_engine_version": [
+							1,
+							13,
+							0
+						]
+					},
+					"modules": [
+						{
+							"type": "data",
+							"uuid": "b5a3d901-928f-42af-b8de-45ccf31e3f91",
+							"version": [
+								1,
+								0,
+								0
+							]
+						}
+					],
+					"dependencies": [
+						{
+							"version": [
+								1,
+								0,
+								0
+							],
+							"uuid": "8bab978c-9b95-4a93-977b-ca255c0f8b0d"
+						}
+					]
+				},
+				"key": "modules",
+				"is_minified": true,
+				"children": [
+					{
+						"type": "data",
+						"uuid": "b5a3d901-928f-42af-b8de-45ccf31e3f91",
+						"version": [
+							1,
+							0,
+							0
+						]
+					}
+				]
+			},
+			{
+				"open": {
+					"format_version": 2,
+					"header": {
+						"name": "max:Bun Buddy BP",
+						"description": "pack.description",
+						"uuid": "2e0535fd-a6a3-40cb-be05-7b1320d46644",
+						"version": [
+							1,
+							0,
+							0
+						],
+						"min_engine_version": [
+							1,
+							13,
+							0
+						]
+					},
+					"modules": [
+						{
+							"type": "data",
+							"uuid": "b5a3d901-928f-42af-b8de-45ccf31e3f91",
+							"version": [
+								1,
+								0,
+								0
+							]
+						}
+					],
+					"dependencies": [
+						{
+							"version": [
+								1,
+								0,
+								0
+							],
+							"uuid": "8bab978c-9b95-4a93-977b-ca255c0f8b0d"
+						}
+					]
+				},
+				"key": "dependencies",
+				"is_minified": true,
+				"children": [
+					{
+						"version": [
+							1,
+							0,
+							0
+						],
+						"uuid": "8bab978c-9b95-4a93-977b-ca255c0f8b0d"
+					}
+				]
+			}
+		]
+	}
+}

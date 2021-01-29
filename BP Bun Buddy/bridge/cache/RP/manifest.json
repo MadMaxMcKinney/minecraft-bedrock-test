@@ -1,0 +1,107 @@
+{
+	"file_path": "C:\\Users\\maxga\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_resource_packs\\RP Bun Buddy\\manifest.json",
+	"file_type": "manifest_rp",
+	"format_version": 1,
+	"file_uuid": "c09c22b7_eed2_4493_828c_12c0455c1ddd",
+	"file_version": 2,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version": 2,
+					"header": {
+						"name": "max:Bun Buddy RP",
+						"description": "pack.description",
+						"uuid": "8bab978c-9b95-4a93-977b-ca255c0f8b0d",
+						"version": [
+							1,
+							0,
+							0
+						],
+						"min_engine_version": [
+							1,
+							13,
+							0
+						]
+					},
+					"modules": [
+						{
+							"type": "resources",
+							"uuid": "6e6b6e0f-b263-4034-bd33-ae8fa9652924",
+							"version": [
+								1,
+								0,
+								0
+							]
+						}
+					]
+				},
+				"data": "2",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": 2,
+					"header": {
+						"name": "max:Bun Buddy RP",
+						"description": "pack.description",
+						"uuid": "8bab978c-9b95-4a93-977b-ca255c0f8b0d",
+						"version": [
+							1,
+							0,
+							0
+						],
+						"min_engine_version": [
+							1,
+							13,
+							0
+						]
+					},
+					"modules": [
+						{
+							"type": "resources",
+							"uuid": "6e6b6e0f-b263-4034-bd33-ae8fa9652924",
+							"version": [
+								1,
+								0,
+								0
+							]
+						}
+					]
+				},
+				"key": "header",
+				"is_minified": true,
+				"children": {
+					"name": "max:Bun Buddy RP",
+					"description": "pack.description",
+					"uuid": "8bab978c-9b95-4a93-977b-ca255c0f8b0d",
+					"version": [
+						1,
+						0,
+						0
+					],
+					"min_engine_version": [
+						1,
+						13,
+						0
+					]
+				}
+			},
+			{
+				"key": "modules",
+				"is_minified": true,
+				"children": [
+					{
+						"type": "resources",
+						"uuid": "6e6b6e0f-b263-4034-bd33-ae8fa9652924",
+						"version": [
+							1,
+							0,
+							0
+						]
+					}
+				]
+			}
+		]
+	}
+}

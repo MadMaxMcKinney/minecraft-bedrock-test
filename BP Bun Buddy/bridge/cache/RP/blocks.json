@@ -1,0 +1,39 @@
+{
+	"file_path": "C:\\Users\\maxga\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_resource_packs\\RP Bun Buddy\\blocks.json",
+	"file_type": "client_block",
+	"format_version": 1,
+	"file_uuid": "473341ad_7b6d_4c5e_a7a4_fe6b1cbc7e74",
+	"file_version": 0,
+	"cache_content": {
+		"children": [
+			{
+				"key": "format_version",
+				"is_minified": true,
+				"children": [
+					1,
+					1,
+					0
+				]
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"max:bunbuddy": {
+						"textures": "bunbuddy",
+						"sound": "cloth"
+					}
+				},
+				"key": "max:bunbuddy",
+				"is_minified": true,
+				"children": {
+					"textures": "bunbuddy",
+					"sound": "cloth"
+				}
+			}
+		]
+	}
+}

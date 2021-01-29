@@ -1,0 +1,25 @@
+{
+	"block": {
+		"BP/blocks/bunbuddy.json": {
+			"identifiers": [
+				"max:bunbuddy"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		}
+	},
+	"client_entity": {
+		"RP/entity/blocks.json": {
+			"identifiers": [],
+			"particle_references": [],
+			"animation_references": [],
+			"sound_references": [],
+			"texture_references": [],
+			"material_references": [],
+			"geometry_references": [],
+			"geometry_identifiers": []
+		}
+	}
+}

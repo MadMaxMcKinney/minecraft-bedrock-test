@@ -1,0 +1,23 @@
+{
+	"BP/manifest.json": {
+		"data": {}
+	},
+	"RP/manifest.json": {
+		"data": {}
+	},
+	"BP/blocks/bunbuddy.json": {
+		"data": {}
+	},
+	"RP/entity/blocks.json": {
+		"data": {}
+	},
+	"RP/models/block/bun_buddy.json": {
+		"data": {}
+	},
+	"RP/textures/terrain_texture.json": {
+		"data": {}
+	},
+	"RP/blocks.json": {
+		"data": {}
+	}
+}

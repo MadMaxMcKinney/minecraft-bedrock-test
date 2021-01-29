@@ -1,0 +1,66 @@
+{
+	"file_path": "C:\\Users\\maxga\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_resource_packs\\RP Bun Buddy\\textures\\terrain_texture.json",
+	"file_type": "terrain_texture",
+	"format_version": 1,
+	"file_uuid": "ce73e423_c33a_4234_b8eb_f9e24d61c88b",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"resource_pack_name": "max",
+					"texture_name": "atlas.terrain",
+					"padding": 8,
+					"num_mip_levels": 4,
+					"texture_data": {
+						"bunbuddy": {
+							"textures": "textures/blocks/bunbuddy"
+						}
+					}
+				},
+				"data": "max",
+				"key": "resource_pack_name"
+			},
+			{
+				"data": "atlas.terrain",
+				"key": "texture_name"
+			},
+			{
+				"data": "8",
+				"key": "padding"
+			},
+			{
+				"data": "4",
+				"key": "num_mip_levels"
+			},
+			{
+				"open": {
+					"resource_pack_name": "max",
+					"texture_name": "atlas.terrain",
+					"padding": 8,
+					"num_mip_levels": 4,
+					"texture_data": {
+						"bunbuddy": {
+							"textures": "textures/blocks/bunbuddy"
+						}
+					}
+				},
+				"key": "texture_data",
+				"children": [
+					{
+						"open": {
+							"bunbuddy": {
+								"textures": "textures/blocks/bunbuddy"
+							}
+						},
+						"key": "bunbuddy",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/bunbuddy"
+						}
+					}
+				]
+			}
+		]
+	}
+}

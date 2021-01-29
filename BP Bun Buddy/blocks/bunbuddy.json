@@ -1,0 +1,17 @@
+//bridge-file-version: #5
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+		"description": {
+			"identifier": "max:bunbuddy",
+			"is_experimental": false,
+			"register_to_creative_menu": true
+		},
+		"components": {
+			"minecraft:destroy_time": 2,
+			"minecraft:map_color": "#FFFFFF",
+			"minecraft:geometry": "geometry.bunbuddy"
+		},
+		"events": {}
+	}
+}

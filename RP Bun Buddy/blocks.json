@@ -1,0 +1,12 @@
+//bridge-file-version: #0
+{
+	"format_version": [
+		1,
+		1,
+		0
+	],
+	"max:bunbuddy": {
+		"textures": "bunbuddy",
+		"sound": "cloth"
+	}
+}
